@@ -1,4 +1,4 @@
 <?php
 	require '../ThinkPHP/ThinkPHP.php';
-	define('APP_DEBUG',true);
+	define("APP_DEBUG" , true);
 ?>

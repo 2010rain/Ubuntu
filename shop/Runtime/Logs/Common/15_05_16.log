@@ -1,0 +1,24 @@
+[ 2015-05-16T22:01:51+08:00 ] 127.0.0.1 /Test1-ThinkPHP/index.php/H%EF%BD%81ome/User/Login/id/1.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+ERR: 无法加载模块:Hａome
+
+[ 2015-05-16T22:18:12+08:00 ] 127.0.0.1 /Test1-ThinkPHP/index.php/H%EF%BD%81ome/User/Login/id/1.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+ERR: 无法加载模块:Hａome
+
+[ 2015-05-16T23:07:31+08:00 ] 127.0.0.1 /Test1-ThinkPHP/index.php/12.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+ERR: 无法加载模块:12
+
+[ 2015-05-16T23:07:34+08:00 ] 127.0.0.1 /Test1-ThinkPHP/index.php/12.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+ERR: 无法加载模块:12
+

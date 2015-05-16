@@ -2,12 +2,22 @@
 	namespace Home\Controller;
 	use Think\Controller;
 	class UserController extends Controller{
-		public function Login()
+		function User()
 		{
+			echo 'Hello';
+		}
+		function Login()
+		{
+			echo '<h1>Login</h1>';
 			$this->display();
 		}
-		public function register()
+		function _empty()
 		{
+			echo 'Wrong';
+		}
+		function register()
+		{
+			echo '<h1>register</h1>';
 			$this->display();
 		}
 	}
